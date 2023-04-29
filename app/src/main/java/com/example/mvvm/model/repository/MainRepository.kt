@@ -1,4 +1,4 @@
-package com.example.mvvm.repository
+package com.example.mvvm.model.repository
 
 import com.example.mvvm.model.FakeApi
 import com.example.mvvm.model.FakeDatabase
